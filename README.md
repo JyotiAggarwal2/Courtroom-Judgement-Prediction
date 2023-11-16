@@ -1,1 +1,2 @@
-# Courtroom-Judgement-Prediction
+# Courtroom Judgement Prediction
+The goal of this project is to develop a machine learning model that can predict the outcome of Court cases accurately. Recent advances in NLP provide us with the tools to build predictive models that can be used to reveal patterns that influence court decisions. By using advanced NLP algorithms to analyze previous court cases, the trained models are able to predictthe judgment of court cases.
